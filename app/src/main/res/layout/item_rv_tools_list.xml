@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/bg_border_bottom"
+        android:gravity="center_vertical"
+        android:padding="20dp"
+        android:orientation="horizontal">
+        <ImageView
+            android:id="@+id/iv_essential"
+            android:layout_width="10dp"
+            android:layout_height="10dp"
+            android:src="@drawable/ic_essential"/>
+        <TextView
+            android:id="@+id/tv_name"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:textSize="16dp"
+            android:text="Quick Acting Heart Reliever"/>
+        <ImageView
+            android:id="@+id/iv_location"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            android:src="@drawable/ic_location"/>
+    </LinearLayout>
+</LinearLayout>

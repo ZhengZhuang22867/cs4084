@@ -1,0 +1,566 @@
+{
+  "goods": [
+    {
+      "name": "nitroglycerin",
+      "type": "Cardiovascular and cerebrovascular emergency medicine",
+      "producedDate": "2019-08-10",
+      "expirationDate": 12,
+      "count":10,
+      "location": "First floor of medicine cabinet"
+    },
+    {
+      "name": "Quick Acting Heart Reliever",
+      "type": "Cardiovascular and cerebrovascular emergency medicine",
+      "producedDate": "2018-08-10",
+      "expirationDate": 24,
+      "count":10,
+      "location": "The second floor of the medicine cabinet"
+    },
+    {
+      "name": "shexiang baoxin wan",
+      "type": "Cardiovascular and cerebrovascular emergency medicine",
+      "producedDate": "2020-08-10",
+      "expirationDate": 12,
+      "count":10,
+      "location": "The first drawer on the left of the cupboard"
+    },
+    {
+      "name": "a small pair of scissors",
+      "type": "Surgical medicine",
+      "producedDate": "2020-08-10",
+      "expirationDate": 12,
+      "count":10,
+      "location": "The second drawer on the left of the cupboard"
+    },
+    {
+      "name": "bandage",
+      "type": "Surgical medicine",
+      "producedDate": "2020-08-10",
+      "expirationDate": 12,
+      "count":10,
+      "location": "Top of the cabinet at the entrance"
+    },
+    {
+      "name": "sterile gauze",
+      "type": "Surgical medicine",
+      "producedDate": "2020-08-10",
+      "expirationDate": 12,
+      "count":10,
+      "location": "The leftmost drawer of the coffee table"
+    },
+    {
+      "name": "bandage",
+      "type": "Surgical medicine",
+      "producedDate": "2020-08-10",
+      "expirationDate": 12,
+      "count":10,
+      "location": "Bottom of cupboard"
+    },
+    {
+      "name": "bandage",
+      "type": "Surgical medicine",
+      "producedDate": "2020-08-10",
+      "expirationDate": 12,
+      "count":10,
+      "location": "Cupboard second floor"
+    },
+    {
+      "name": "Entoiodine",
+      "type": "Surgical medicine",
+      "producedDate": "2020-08-10",
+      "expirationDate": 12,
+      "count":10,
+      "location": "The third floor of the cabinet at the entrance"
+    },
+    {
+      "name": "mupirocin ointment",
+      "type": "Surgical medicine",
+      "producedDate": "2019-08-10",
+      "expirationDate": 12,
+      "count":10,
+      "location": "The third floor of the cabinet at the entrance"
+    },
+    {
+      "name": "scald ointment",
+      "type": "Surgical medicine",
+      "producedDate": "2020-08-10",
+      "expirationDate": 12,
+      "count":10,
+      "location": "The medicine cabinet is on the third floor"
+    },
+    {
+      "name": "Yunnan Baiyao Spray",
+      "type": "Surgical medicine",
+      "producedDate": "2019-06-10",
+      "expirationDate": 12,
+      "count":10,
+      "location": "The medicine cabinet is on the third floor"
+    },
+    {
+      "name": "loperamide",
+      "type": "Digestive system drugs",
+      "producedDate": "2019-06-10",
+      "expirationDate": 12,
+      "count":10,
+      "location": "The second drawer on the left of the cupboard"
+    },
+    {
+      "name": "Diphenoxylate",
+      "type": "Digestive system drugs",
+      "producedDate": "2020-08-10",
+      "expirationDate": 12,
+      "count":10,
+      "location": "The second drawer on the left of the cupboard"
+    },
+    {
+      "name": "dioctahedral smectite",
+      "type": "Digestive system drugs",
+      "producedDate": "2020-08-10",
+      "expirationDate": 12,
+      "count":10,
+      "location": "The second drawer on the left of the cupboard"
+    },
+    {
+      "name": "Trumpet Brand Herbal Dietary Supplement",
+      "type": "Digestive system drugs",
+      "producedDate": "2020-08-10",
+      "expirationDate": 12,
+      "count":10,
+      "location": "Top of the cabinet at the entrance"
+    },
+    {
+      "name": "Huoxiang Zhengqi Wan",
+      "type": "Digestive system drugs",
+      "producedDate": "2020-08-10",
+      "expirationDate": 12,
+      "count":10,
+      "location": "Top of the cabinet at the entrance"
+    },
+    {
+      "name": "Clarityne",
+      "type": "antiallergic agent",
+      "producedDate": "2020-08-10",
+      "expirationDate": 12,
+      "count":10,
+      "location": "Bottom of cupboard"
+    },
+    {
+      "name": "astemizole",
+      "type": "antiallergic agent",
+      "producedDate": "2020-08-10",
+      "expirationDate": 12,
+      "count":10,
+      "location": "Bottom of cupboard"
+    },
+    {
+      "name": "chlortrimeton",
+      "type": "antiallergic agent",
+      "producedDate": "2020-08-10",
+      "expirationDate": 12,
+      "count":10,
+      "location": "The second floor of the medicine cabinet"
+    },
+    {
+      "name": "Long tweezers",
+      "type": "Surgical medicine",
+      "producedDate": "2020-08-10",
+      "expirationDate": 12,
+      "count":10,
+      "location": "The second floor of the medicine cabinet"
+    },
+    {
+      "name": "25%glucose",
+      "type": "Digestive system drugs",
+      "producedDate": "2020-08-10",
+      "expirationDate": 12,
+      "count":10,
+      "location": "Bottom of cupboard"
+    },
+    {
+      "name": "ice bag",
+      "type": "Surgical medicine",
+      "producedDate": "2020-08-10",
+      "expirationDate": 30,
+      "count":5,
+      "location": "refrigerator"
+    },
+    {
+      "name": "ibuprofen",
+      "type": "analgesic",
+      "producedDate": "2020-08-10",
+      "expirationDate": "24",
+      "count":5,
+      "location": "Top of the cabinet at the entrance"
+    },
+    {
+      "name": "Medicinal alcohol",
+      "type": "Surgical medicine",
+      "producedDate": "2020-08-10",
+      "expirationDate": "24",
+      "count":1,
+      "location": "Top of the cabinet at the entrance"
+    },
+    {
+      "name": "weatherglass",
+      "type": "Surgical medicine",
+      "producedDate": "2020-08-10",
+      "expirationDate": "24",
+      "count":1,
+      "location": "Top of the cabinet at the entrance"
+    }
+  ],
+  "goodsType": [
+    {
+      "id": 1,
+      "name": "Cardiovascular and cerebrovascular emergency medicine"
+    },{
+      "id": 2,
+      "name": "Surgical medicine"
+    },{
+      "id": 3,
+      "name": "Digestive system drugs"
+    },{
+      "id": 4,
+      "name": "antiallergic agent"
+    },{
+      "id": 5,
+      "name": "analgesic"
+    }
+  ],
+  "symptom":[{
+    "name": "scald",
+    "symptom":"",
+    "tools": [{
+      "name": "Cold towel",
+      "must": false
+    },{
+      "name": "cold water",
+      "must": false
+    },{
+      "name": "sterile gauze",
+      "must": false
+    },{
+      "name": "bandage",
+      "must": false
+    }
+    ],
+    "notice": "1、When the injury is too serious, the third grade scald should be covered with clean sterile gauze or exposed, and quickly sent to the hospital for treatment.\n2, if the area of secondary scald is larger than the palm of the hand, the patient should also go to the hospital to see, professional treatment can avoid leaving scars.\n3. The scald should avoid direct sunlight, the wound after dressing should not touch water, and the scald part should not be too active to avoid friction between the wound and the gauze and increase the healing time of the wound.",
+    "forbid": "1、ce compress should not be used to treat burns. Ice can damage already damaged skin and worsen the wound.\n2. Don't break the blister, or it will leave a scar.\n3. Do not casually smear antibiotic ointment or oil on the wound. These sticky substances are easy to be contaminated with dirty things.\n4, do not urgently take off the clothes, when the burn is covered by clothes, do not hurry to take off the clothes, so as not to tear the blister after the burn, can first wash with water to cool down, and then carefully remove the clothes.",
+    "steps": [ "Once scald occurs, whether it is boiling water or steam scald, you should first reduce the temperature of the scald skin to reduce further damage, and rinse with water can also reduce pain.",
+      "Immediately wash the burned area under running water or apply a cold compress with a cool towel. If the burn area is large, the victim should immerse his entire body in a bathtub filled with cold water.",
+      "A sterile gauze or bandage can be loosely wrapped around the burn to protect the wound."
+    ]
+  },{
+    "name": "fever",
+    "symptom":"",
+    "tools": [{
+      "name": "ice bag",
+      "must": false
+    },{
+      "name": "Slightly cool wet towels",
+      "must": true
+    },{
+      "name": "Medicinal alcohol",
+      "must": false
+    },{
+      "name": "thermometer",
+      "must": true
+    },{
+      "name": "Warm water (about 37℃)",
+      "must": false
+    }],
+    "notice": "1、Bed rest: If you have a fever, please stay in bed to recover your strength and recover as soon as possible.\n2, replenish water: when you have a fever, sweat increases, water and salt in the body will speed up the loss at the same time, you should drink more cold baikai, fruit juice, etc., pay attention to salt supplement.\n3, avoid sweat, because it will make the body is not easy to heat, but also aggravate sweating, cause dehydration and aggravate discomfort.\n4, timely medical treatment: found any fever, must be timely medical treatment, to find out the cause;And comply with the doctor's orders, regular and quantitative use of antipyretic drugs, and the treatment of the cause of disease.",
+    "forbid": "",
+    "steps": ["Wipe with a cool wet towel (about 25℃) on the forehead and face.",
+      "With warm water (about 37℃) shower, can make the blood vessels of the skin dilate, body heat release;Clean skin will help you recover from a fever by washing away sweat stains.",
+      "If your body temperature is above 38℃, you can use an ice pack to cool down. Please wrap a dry towel or cotton pad on the outside of the ice pack to avoid frostbite.The ice bag can be placed in the armpit or the root of the thigh and other parts with rich blood vessels, which is conducive to heat dissipation.",
+      "Rub the limbs and back with 70% medical alcohol. The evaporation of alcohol can effectively cool the body."
+    ]
+  },{
+    "name": "toothache",
+    "symptom":"",
+    "tools": [{
+      "name": "saline",
+      "must": true
+    },{
+      "name": "liquor",
+      "must": false
+    },{
+      "name": "ice bag",
+      "must": false
+    }],
+    "notice": "1、Dental health care, dental disease prevention.The key is to maintain oral hygiene. Stick to the good habit of brushing your teeth morning and evening and gargling after meals.Brushing action should be gentle, the direction should be consistent with the direction of the teeth, so that it can achieve cleaning the food residue in the teeth, and can massage the gums, improve the blood circulation of periodontal tissue.\n2, when the fire is easy to induce toothache, so we should adopt a light diet, keep the mood calm, to avoid the fire.\n3, pain relief is not equal to treatment, many toothache hidden behind other diseases, when the above method can not relieve the pain, should be timely to the hospital to find out the cause and corresponding treatment. ",
+      "forbid": "1、Avoid sugar or rice and noodles before going to bed, otherwise bacteria will multiply in the mouth.\n2, do not eat cold, hot, sour, hard food.",
+    "steps": ["Salt water or wine have antiseptic effects. Rinse with them several times to relieve or stop a toothache.",
+      "Massage and press Hegu with your fingers (near the back of the hand) to relieve the pain.",
+      "If accompanied by root jumping pain, mostly caused by gum abscess, can be used to relieve pain ice pack cheek."
+    ]
+  },{
+    "name": "sprain",
+    "symptom":"",
+    "tools": [{
+      "name": "Elastoplast",
+      "must": true
+    },{
+      "name": "ice bag",
+      "must": true
+    },{
+      "name": "hot compress",
+      "must": true
+    }],
+    "notice": "If treated by the above method, it can not be relieved or even aggravated within 7 days, and there may be fracture, muscle strain or ligament fracture, which requires immediate examination and treatment in the hospital.",
+    "forbid": "Do not move the injured joint, otherwise it is easy to aggravate ligament damage, leaving irreversible sequelae. ",
+    "steps": ["A sprain is an injury to a joint.Once injured, should be immediately wrapped with elastic bandage, and the injured area pad high, to avoid further injury.",
+      "Within 48 hours of sprain, the soft tissue exudation of the injured area is aggravated. Ice packs should be used to reduce the exudation, once every hour, half an hour each time.",
+      "After 48 hours, the injured area begins to absorb the previous exudation. At this time, hot compress should be applied. Increasing blood circulation to the injured area can help reduce swelling faster."
+    ]
+  },{
+    "name": "food poisoning",
+    "symptom":"",
+    "tools": [{
+      "name": "Cold saline",
+      "must": true
+    },{
+      "name": "ginger juice",
+      "must": false
+    },{
+      "name": "chopsticks",
+      "must": false
+    },{
+      "name": "goose feather",
+      "must": false
+    },{
+      "name": "folium sennae",
+      "must": true
+    },{
+      "name": "laxative",
+      "must": false
+    },{
+      "name": "vinegar",
+      "must": false
+    },{
+      "name": "water",
+      "must": false
+    }],
+    "notice": "1、When buying and eating packaged foods, pay attention to the production date, expiration date and manufacturer.\n2, processing, storage of food to raw, cooked separate, overnight food before eating must be heated and cooked thoroughly.\n3. Wash your hands before cooking and eating.Wash hands again after handling raw fish, meat and poultry.\n4, after eating, if vomiting, diarrhea and other food poisoning symptoms, should immediately self-treatment;If the symptoms do not relieve or worsen, go to a hospital immediately.",
+    "forbid": "1、Once a food is suspected to be toxic, you should immediately prohibit yourself or others from using the food;\n2. Keep the food properly to avoid others eating it by accident.",
+    "steps": ["Such as eating time within 1-2 hours, can take quick drinking cold brine, ginger juice and other emetic, can also be used fingers, chopsticks or goose feather to stimulate the throat emetic, as soon as possible to discharge the poison.",
+      "If the poisoned food has been eaten for more than two hours, laxatives such as senna leaf can be taken to promote the excretion of the poison.",
+        "If food poisoning is caused by eating spoiled fish, prawns, crabs, etc., take 100 ml vinegar and 200 ml water at a time after dilution."
+    ]
+  },{
+    "name": "carbon monoxide poisoning",
+    "symptom": "Gas poisoning is namely carbon monoxide poisoning, when mild poisoning, the patient feels giddy, lack of power, nausea, vomiting;The poisoning is so severe that the face and mouth are cherry red and can cause confusion, confusion, difficulty breathing and even death.",
+    "tools": [],
+    "notice": "",
+    "forbid": "It is forbidden to light an open fire or turn on a light switch at the scene of gas poisoning, otherwise it is easy to cause an explosion.",
+    "steps": ["Once the occurrence of gas poisoning, immediately open the doors and Windows, close the gas valve, the victim moved to the air flow place, unbutton the patient so that breathing fluid, pay attention to keep warm, prevent cold leading to lung infection;Avoid turning over regularly to avoid buttocks bruising",
+      "People who have stopped breathing should be given artificial respiration immediately, and those who have not been relieved should be sent to hospital quickly."
+    ]
+  },{
+    "name": "alcoholism",
+    "symptom": "",
+    "tools": [{
+      "name": "spoon",
+      "must": false
+     },{
+      "name": "chopsticks",
+      "must": false
+    }
+  ],
+    "notice": "1、Coffee and strong tea should not be used for hangover.\n2. Drinking milk before drinking can protect gastric mucosa.\n3, pay attention to the warm drunk to prevent pneumonia, to avoid vomit blocking the respiratory tract;Under normal circumstances, when you wake up, you can recover by yourself;If you do not wake up after a long sleep, you should immediately send to the hospital for treatment.",
+    "forbid": "",
+    "steps": ["The first thing to do is to stop him drinking any more;",
+      "Secondly, the vomit reflex can be caused by stimulating the throat (such as using a spoon, chopsticks, etc.) to vomit the contents of the stomach containing alcohol as soon as possible (this method is forbidden for patients who have already suffered from lethargy).;",
+      "Severe acute alcoholism, there will be irritability, lethargy, dehydration, convulsions, shock, weak breathing and other symptoms, should be sent from the hospital emergency treatment."
+    ]
+  },{
+    "name": "Fish bone spur throat",
+    "symptom": "",
+    "tools": [{
+      "name": "mirror",
+      "must": true
+    },{
+      "name": "Long tweezers",
+      "must": true
+    },{
+      "name": "chopsticks",
+      "must": false
+    }
+    ],
+    "notice": "1、Larger or deeper fish bones, can not let patients use swallowing steamed bread, drinking water and other methods, although sometimes this method can get rid of the fish bones, but the potential danger is: sometimes not only did not get rid of the fish bones, but to make it sting deeper, even through the esophagus, causing chest infection and other serious consequences.\n2, can not delay for a long time, that the fish will automatically fall off for a long time, many people cause serious pharyngeal infection because of the delay.",
+    "forbid": "",
+    "steps": ["Ask others or yourself to observe your throat with a mirror. If you find a fish bone, use long forceps or chopsticks to grasp the foreign body and gently pull it out.",
+      "If there is no fish bone, must not blindly with soil method, very dangerous, should go to the hospital to get a thorn."
+    ]
+  },{
+    "name": "sunstroke",
+    "symptom": "",
+    "tools": [],
+    "notice": "1、A person is very weak after heat stroke, and during the recovery process, the diet should be light and easy to digest.Supplement necessary water, salt, calories, vitamins, protein and other nutrients needed.\n2. Don't drink large amounts of water after heat stroke.Heat stroke patients should use a small amount of repeated drinking water method;Strict hydration methods need to be measured by the doctor, not more, not less.\n3. Heat stroke is important to prevent. When you work or walk in the sun for a long time, you should wear a straw hat or a sun hat and pay attention to rest.Heat stroke can also occur if the temperature is too high when working indoors. Let the air circulate and take appropriate sunscreen measures according to the work and working environment.",
+    "forbid": "",
+    "steps": ["If there is a warning sign of heat stroke, evacuate the hot environment immediately.Rest quietly in the shade and drink a salty beverage.If breathing stops, give mouth to mouth resuscitation immediately.",
+      "Lift the patient to a cool, shaded or air-conditioned room to rest on his or her back, loosen or remove clothing.",
+      "Rub the entire body with a wet, water-soaked towel and cool by evaporation.",
+      "If cooling treatment can not alleviate the condition, it is severe heat stroke, need to be sent to the hospital in time for further treatment."
+    ]
+  }, {
+      "name": "stomachache",
+      "symptom": "",
+      "tools": [
+        {
+          "name": "hot-water bag",
+          "must": false
+        }
+      ],
+      "notice": "1、Abdominal pain accompanied by fever and diarrhea often indicate acute gastroenteritis. Appropriate oral antibiotics can be taken under the guidance of physicians.\n2. Before severe abdominal pain and the cause has not been identified, painkillers should be used with caution, and drugs such as morphine and Demerol should be avoided to avoid covering up the condition.\n3, persistent or severe abdominal pain can not be relieved, should go to the hospital to find out the cause and timely treatment.\n4, for chronic intermittent attack of abdominal pain accompanied by blood in stool, stool shape change, to rule out the possibility of abdominal tumor. ",
+      "forbid": "Acute abdominal pain of any cause should be stopped eating and drinking water.",
+      "steps": [
+        "Acute abdominal pain of any cause should be stopped eating and drinking water.About 25% of acute abdominal pain requires urgent care.One type of abdominal pain called \"immediate fatal abdominal pain,\" which appears to be abdominal pain, is actually caused by an acute myocardial infarction that can quickly lead to death.Patients should immediately lie flat on the spot, try to relax the whole body, at the same time immediately call the emergency phone, in the professional emergency personnel accompanied by the hospital.",
+        "For general abdominal pain, patients keep quiet, take the prone position can make abdominal pain relief, can use both hands to properly compress the abdomen to relieve pain;Curling up your legs relaxes your abdominal muscles and relieves abdominal pain.Sometimes with hot water bag hot compress, massage can also relieve."
+      ]
+    }, {
+    "name": "nosebleed",
+    "symptom": "",
+    "tools": [
+      {
+        "name": "cold water",
+        "must": true
+      }
+    ],
+    "notice": "1、Because the air is too dry can induce nasal bleeding, so should maintain a certain air humidity.\n2. The elderly should move slowly when they are active on weekdays. Do not blow your nose vigorously.For children with nosebleeds, children should correct the bad habits of nose picking, nose rubbing, curious placement of foreign bodies, which can easily lead to mucosal injury.\n3, people prone to heat nosebleeds, diet, eat more fruits and vegetables, avoid spicy and stimulating diet.\n4, acute nosebleeds over 20 minutes can not stop the bleeding, need to find a doctor to find the reason;Long-term recurrent nosebleeds, need to be alert to nasopharyngeal tumors, pulmonary hemorrhage and leukemia and other serious diseases.",
+    "forbid": "Nosebleeds are not allowed to tilt your head back, as it is easy to make nosebleeds flow into the respiratory tract and suck into the lungs. It is not only unstoppable, but also dangerous.",
+    "steps": [
+      "Stand next to the faucet and hold the cartilage below the bridge of the nose with one hand for about 5-15 minutes. At the same time, take cold water with the other hand and hit the face to reduce the facial temperature to achieve the effect of constricting blood vessels.Normal nosebleeds can be stopped quickly with this method."
+    ]
+  }, {
+    "name": "headache",
+    "symptom": "",
+    "tools": [
+      {
+        "name": "Cold hot towel cabinet",
+        "must": true
+      }, {
+        "name": "paregoric",
+        "must": false
+      }, {
+        "name": "Non-steroidal anti-inflammatory painkillers",
+        "must": false
+      }, {
+        "name": "aspirin",
+        "must": false
+      }, {
+        "name": "ibuprofen",
+        "must": false
+      }, {
+        "name": "indometacin",
+        "must": false
+      }
+    ],
+    "notice": "1、Headache can be a manifestation of general fatigue and tension, or it can be a sign of some serious diseases, such as brain tumors, hypertension, etc. If the headache recurs and cannot be relieved, attention needs to be paid.\n2. Headache caused by trauma, often accompanied by dizziness, insomnia, amnesia, etc.If the headache is getting worse day by day, and the occurrence of vomiting and consciousness disorder, we should be alert to the possibility of intracranial hematoma and must go to the hospital in time.",
+    "forbid": "Headache patients should reduce chocolate, cheese, wine, coffee, tea and other irritant food easy to induce pain.At the same time the taste diet should be light, taboo spicy stimulation, raw and cold food;Do not blow directly to the patient's face.",
+    "steps": [
+      "When you have a headache, you should find a quiet room to rest, keep the environment clean and ventilated, and avoid mood swings.Even a cold (hot) towel on the forehead can relieve the pain, and proper oxygen inhalation using a home oxygen machine can also relieve the headache.",
+      "When a headache is difficult to endure, pressing the sun and Hegu acupoints on both sides with both hands and fingers can usually relieve the headache.",
+      "Analgesics are usually effective for headaches. Non-steroidal anti-inflammatory painkillers are effective and not addictive. They are the most commonly used pain relievers for headaches.Taking painkillers requires vigilance to mask the condition."
+    ]
+  }, {
+    "name": "epilepsy",
+    "symptom": "",
+    "tools": [],
+    "notice": "1、The root cause of epilepsy is mainly left by infants and young children, so prevention should do the following: the first three months of pregnancy, be sure to stay away from radiation, avoid virus and bacterial infection;Avoid fetal hypoxia, asphyxia and birth injury during delivery;Children should see a doctor in time when they have fever to avoid high fever convulsion and brain tissue injury.\n2. Determine that patients with epilepsy need regular outpatient treatment;Life, to avoid coffee and other spicy stimulating diet, smoking cessation, alcohol;Driving cars is prohibited;No swimming in the wild;It is not suitable to work at high altitude.",
+    "forbid": "",
+    "steps": [
+      "Patients with a history of attack should inform their family members or people around them in time. They can help the patients to bed as soon as possible, and can also make them lie down to prevent a sudden loss of consciousness and a fall. They can quickly remove the hard objects and sharp instruments around them to reduce the harm to the body during the attack.",
+      "Quickly loosen the collar of the patient and turn his head to one side to keep the airway open.Do not put anything into the mouth of the patient. Do not fill medication to prevent suffocation.",
+      "The patient's teeth are closed during the seizure of convulsions, and attention should be paid to the possibility of biting the tongue;Do not forcibly press the patient's limbs during the patient's convulsions, excessive force can cause fractures and muscle strain, increase the patient's pain.",
+      "Seizures usually resolve spontaneously within 5 minutes.If continuous attack or frequent attack, an attack of more than 5-10 minutes, the patient should be sent to the hospital in time to continue to rescue."
+    ]
+  }, {
+    "name": "neurasthenia",
+    "symptom": "Neurasthenia refers to the long-term tension and pressure, mental easily excited and mental fatigue phenomenon, often accompanied by emotional troubles, irritable, sleep disorders, muscle tension pain.",
+    "tools": [{
+      "name": "antianxiety drug",
+      "must": true
+    }],
+    "notice": "",
+    "forbid": "",
+    "steps": [
+      "Although neurasthenia is a functional disease, many organic diseases will first appear as neurasthenia, so it is necessary to exclude hidden organic diseases first, so as not to delay the disease.",
+      "Anxiety drugs can improve the patient's anxiety and depression, also can make the muscle relax;Physical exercise, travel and recuperation, and adjustment of unreasonable lifestyle can also improve tension and mental stress.",
+      "Deep breathing exercises and muscle relaxation exercises can bring the whole body into a relaxed state in a very short period of time to achieve the goal of self-regulation."
+    ]
+  }, {
+    "name": "breathing difficulties",
+    "symptom": "Adult normal respiratory rate is 16-20 times/min;Dyspnea refers to the lack of oxygen or difficulty in breathing experienced by the patient's supervisor. Objectively, the frequency, depth and rhythm of breathing have changed.",
+    "tools": [],
+    "notice": "1、Pulmonary and bronchial diseases and heart disease are the most common causes of dyspnea.When these patients appear symptom should maintain half sit body position, make respiratory tract unobpatted, can take expectorant, but do not use sedative lest produce danger, oxygen can be inhaled when condition, dyspnea can be improved commonly.\n2. If you have difficulty breathing during exercise, it may be due to heart disease or respiratory disease.If you suddenly have difficulty breathing while eating, it may be due to asphyxia and an urgent need to clear a blocked airway.\n3, various causes of poisoning can also appear dyspnea.If carbon monoxide poisoning occurs, immediately remove the patient from the poisoning scene, or close the valve and maintain air circulation;If a family member suffers from diabetes, suffers from breathing difficulties and the smell of rotten apples on his/her breath, and suffers from mental problems, he/she should consider ketoacidosis associated with diabetes, which is dangerous and should be sent to a hospital immediately. ",
+    "forbid": "",
+    "steps": [
+      "In the event of dyspnea, the patient should immediately lie supine and hold his lower jaw so that his head is tilted upward. This can open the airway. If there is airway secretions, oral vomit or foreign bodies, they should be removed promptly.",
+      "Pay attention to the safety of the surrounding environment to avoid secondary injuries during first aid;Try to keep the patient quiet, avoid emotional stress resulting in airway spasm, in order to prevent aggravation of breathing difficulties.",
+      "If the patient has difficulty breathing with pink foamy sputum, possibly due to acute heart failure, place him in a semi-decubitus or sitting position to reduce congestion in the lungs and increase abdominal breathing.",
+      "If respiratory cardiac arrest occurs, artificial respiration and cardiac compressions should be carried out immediately.At the same time, he called the people around him to dial 120 emergency number."
+    ]
+  }, {
+    "name": "acute pneumonia",
+    "symptom": "neumonia is an inflammation of the terminal airways, alveoli and interstitium of the lungs, mainly caused by bacteria. The main clinical symptoms are fever, chills, cough, sputum, sputum with blood, chest pain or dyspnea, etc.",
+    "tools": [{
+      "name": "water",
+      "must": true
+    },{
+      "name": "salinity",
+      "must": true
+    }],
+    "notice": "1、For adults, to avoid rain, cold, fatigue and alcohol and other inducements, is an important measure to prevent pneumonia;Many people get pneumonia when they catch a cold while drunk or when they vomit.\n2, pediatric pneumonia is a common disease in infants and young children, is a common cause of infant death, need to strengthen prevention: when there is a respiratory virus epidemic, do not take children to public places to go;Avoid contact with children when someone in the family has a cold.Once the child is found to have fever, refusal to eat, irritability, wheezing and other symptoms, accompanied by high temperature above 38℃, children should be suspected of pneumonia, seek medical advice as soon as possible, without delay.",
+    "forbid": "",
+    "steps": [
+      "The most important treatment of pneumonia is to fight infection, so once suspected pneumonia, must be treated immediately, can not delay.",
+      "Additional, pneumonia still should notice auxiliary treatment: if rest in bed, ensure adequate morpheus and proper rest;Pneumonia can consume whole body energy, should pay attention to replenish water, salt, energy and protein;Pneumonia patients ventilation and ventilation function decline, appropriate oxygen inhalation can increase the oxygen content in the blood, promote recovery.",
+      "Coughing with phlegm, family care when the hand nest into a bowl, percussion in the patient's back, can increase the chest vibration, promote sputum;Patients should also take the initiative to cough, sputum timely discharge.Do not abuse cough suppressants, because suppressing a cough is not conducive to excretion."
+    ]
+  }, {
+    "name": "gastro spasm",
+    "symptom": "Pneumonia is an inflammation of the terminal airways, alveoli and interstitium of the lungs, mainly caused by bacteria.The main clinical symptoms are fever, chills, cough, sputum, sputum with blood, chest pain or dyspnea, etc.",
+    "tools": [{
+      "name": "phloroglucinol",
+      "must": true
+    },{
+      "name": "lansoprazole",
+      "must": true
+    },{
+      "name": "25%glucose",
+      "must": false
+    },{
+      "name": "Anisodamine (654-2) injection",
+      "must": false
+    },{
+      "name": "lidocaine",
+      "must": false
+    },{
+      "name": "Scallion and fibrous roots",
+      "must": false
+    },{
+      "name": "fresh ginger",
+      "must": false
+    },{
+      "name": "cooked millet",
+      "must": false
+    },{
+      "name": "liquor",
+      "must": false
+    },{
+      "name": "scraping plate",
+      "must": false
+    }],
+    "notice": "1、Do a good job of warm-up activities before exercise, avoid oversatiation, avoid eating beans and sweet potato, potato and other foods, eat cold drinks less, can prevent the occurrence of stomach cramps.\n2, when there is stomach cramps, first of all to let people calm down, it is appropriate to lie flat on the bed, and then use hot water in the upper abdomen for 20 to 30 minutes.",
+    "forbid": "",
+    "steps": [
+      "Drug treatment :(1) Phloroglucinol combined with lansoprazole has good efficacy and high safety in the treatment of gastric spasm.(2) Two 25% glucose capsules, two anisodamine (654-2) capsules and one lidocaine capsules were mixed orally.",
+      "Dietotherapy: take raw green onion peeled to leave to stay green onion white and fibrous root and ginger different mash, add millet rice, put the pot after the heat, sprinkle wine stir-fry until hot out, wrapped with cloth, external application stomach area.Pay attention to the appropriate temperature, prevent scald skin, generally take effect immediately after the drug.",
+      "Chinese medicine scraping treatment: the application of scraping therapy can dredge the meridians, running Qi and blood, so that the stomach pain relief.",
+      "Acupoint stimulation method: to stimulate Liangqiu acupoint with finger pressure, pressure toward the thigh direction, strong vibration, can be used thumb pressure.Press 20 seconds at a time, rest for 5 seconds before continuing.Repeat this several times and the pain will subside gradually."
+    ]
+  }
+  ]
+}

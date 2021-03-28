@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android" >
+    <!-- RadioButton没有被选中时的item -->
+    <item android:state_checked="false">
+        <shape>
+            <solid android:color="@color/colorWhite"/>
+        </shape>
+    </item>
+
+    <!-- RadioButton 选中时的item -->
+    <item android:state_checked="true">
+        <layer-list>
+            <!-- layer-list 第二层右下角的图片 -->
+            <item
+                android:right="15dp">
+                <bitmap android:src="@drawable/ic_checked"
+                    android:gravity="right|center_vertical" />
+            </item>
+
+        </layer-list>
+    </item>
+
+</selector>

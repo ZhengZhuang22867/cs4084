@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ui.MainActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:fitsSystemWindows="true"
+        android:orientation="vertical">
+        <!--标题栏-->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/bg_border_bottom">
+            <com.gx.emergency.widget.MyActionBar
+                android:id="@+id/myActionBar"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"/>
+        </LinearLayout>
+        <LinearLayout
+            android:id="@+id/ll_main_content"
+            android:layout_weight="1"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:orientation="horizontal" />
+        <RadioGroup
+            android:layout_width="match_parent"
+            android:layout_height="58dp"
+            android:background="@drawable/bg_border_top"
+            android:paddingTop="8dp"
+            android:orientation="horizontal">
+            <!--急救包-->
+            <RadioButton
+                android:id="@+id/rb_main_medicine_bag"
+                android:layout_weight="1"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:button="@null"
+                android:textAlignment="center"
+                android:gravity="center_horizontal"
+                android:drawableTop="@drawable/selector_main_rb_medicine_bag"
+                android:textColor="@drawable/selector_main_rb_text"
+                android:textSize="12dp"
+                android:background="@null"
+                android:text="Medicine bag" />
+            <!--紧急处理-->
+            <RadioButton
+                android:id="@+id/rb_main_emergency"
+                android:layout_weight="1"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:button="@null"
+                android:textAlignment="center"
+                android:gravity="center_horizontal"
+                android:drawableTop="@drawable/selector_main_rb_emergency"
+                android:textColor="@drawable/selector_main_rb_text"
+                android:textSize="12dp"
+                android:background="@null"
+                android:text="Emergency handling"/>
+            <!--逃生-->
+            <RadioButton
+                android:id="@+id/rb_main_escape"
+                android:layout_weight="1"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:button="@null"
+                android:textAlignment="center"
+                android:gravity="center_horizontal"
+                android:drawableTop="@drawable/selector_main_rb_escape"
+                android:textColor="@drawable/selector_main_rb_text"
+                android:textSize="12dp"
+                android:background="@null"
+                android:text="Escape"/>
+        </RadioGroup>
+
+    </LinearLayout>
+</LinearLayout>
